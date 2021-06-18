@@ -1,0 +1,78 @@
+/* Araboto-100 - latin */
+@font-face {
+  font-family: 'Araboto';
+  font-style: normal;
+  font-weight: 100;
+  src: url('Araboto/fonts/Araboto-Thin.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('Araboto/fonts/Araboto-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Araboto/fonts/Araboto-Thin.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Araboto/fonts/Araboto-Thin.woff') format('woff'), /* Modern Browsers */
+       url('Araboto/fonts/Araboto-Thin.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('Araboto/fonts/Araboto-Thin.svg#Araboto') format('svg'); /* Legacy iOS */
+}
+/* Araboto-300 - latin */
+@font-face {
+  font-family: 'Araboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url('Araboto/fonts/Araboto-Light.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('Araboto/fonts/Araboto-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Araboto/fonts/Araboto-Light.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Araboto/fonts/Araboto-Light.woff') format('woff'), /* Modern Browsers */
+       url('Araboto/fonts/Araboto-Light.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('Araboto/fonts/Araboto-Light.svg#Araboto') format('svg'); /* Legacy iOS */
+}
+/* Araboto-regular - latin */
+@font-face {
+  font-family: 'Araboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Araboto/fonts/Araboto-Normal.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('Araboto/fonts/Araboto-Normal.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Araboto/fonts/Araboto-Normal.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Araboto/fonts/Araboto-Normal.woff') format('woff'), /* Modern Browsers */
+       url('Araboto/fonts/Araboto-Normal.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('Araboto/fonts/Araboto-Normal.svg#Araboto') format('svg'); /* Legacy iOS */
+}
+/* Araboto-500 - latin */
+@font-face {
+  font-family: 'Araboto';
+  font-style: normal;
+  font-weight: 500;
+  src: url('Araboto/fonts/Araboto-Medium.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('Araboto/fonts/Araboto-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Araboto/fonts/Araboto-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Araboto/fonts/Araboto-Medium.woff') format('woff'), /* Modern Browsers */
+       url('Araboto/fonts/Araboto-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('Araboto/fonts/Araboto-Medium.svg#Araboto') format('svg'); /* Legacy iOS */
+}
+/* Araboto-700 - latin */
+@font-face {
+  font-family: 'Araboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url('Araboto/fonts/Araboto-Bold.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('Araboto/fonts/Araboto-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Araboto/fonts/Araboto-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Araboto/fonts/Araboto-Bold.woff') format('woff'), /* Modern Browsers */
+       url('Araboto/fonts/Araboto-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('Araboto/fonts/Araboto-Bold.svg#Araboto') format('svg'); /* Legacy iOS */
+}
+/* Araboto-900 - latin */
+@font-face {
+  font-family: 'Araboto';
+  font-style: normal;
+  font-weight: 900;
+  src: url('Araboto/fonts/Araboto-Black.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('Araboto/fonts/Araboto-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Araboto/fonts/Araboto-Black.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Araboto/fonts/Araboto-Black.woff') format('woff'), /* Modern Browsers */
+       url('Araboto/fonts/Araboto-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('Araboto/fonts/Araboto-Black.svg#Araboto') format('svg'); /* Legacy iOS */
+}
