@@ -780,6 +780,14 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
 @media (max-width:1199.98px){
     .wp-block-group:not(.full-window-no-padding),.wp-block-cover:not(.full-window-no-padding){padding-left:30px;padding-right:30px} 
 }
+@media (max-width:1099.98px){
+    .banner-form-con{
+        display: block;
+    }
+    .banner-form-con .wp-block-column{
+        margin-left: 0!important;
+    }
+}
 @media (max-width:991.98px){
     .embed-responsive-32by9::before,
     .embed-responsive-21by9::before,
