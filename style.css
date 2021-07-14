@@ -815,6 +815,9 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
     .uagb-columns__wrap .uagb-columns__inner-wrap {
         display: block;
     }
+    .uagb-columns__wrap .uagb-column__wrap{
+        width: 100%!important;
+    }
 }
 @media (max-width:599.98px){}
 @media (max-width:479.98px){}
