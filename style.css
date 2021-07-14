@@ -836,6 +836,14 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
     #cta .popup-btn-wrapper{
         justify-content: flex-start;
     }
+    .home-banner-title{
+        font-size: 35px!important;
+    }
 }
-@media (max-width:599.98px){}
+@media (max-width:599.98px){
+    
+    .home-banner-title{
+        font-size: 30px!important;
+    }
+}
 @media (max-width:479.98px){}
