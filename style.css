@@ -747,7 +747,7 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
 .mos-post-grid-merge-four-rows{grid-row-end:span 4}
 .mos-post-grid-merge-five-rows{grid-row-end:span 5}
 .mos-post-grid-merge-six-rows{grid-row-end:span 6}
-@media (min-width:768px){
+@media (min-width:769px){
     .mos-post-grid-one{grid-column-end:span 1}
     .mos-post-grid-two{grid-column-end:span 2}
     .mos-post-grid-three{grid-column-end:span 3}
