@@ -478,6 +478,7 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
 #cta .popup-btn-wrapper {
     justify-content: flex-end;
     padding-right: 10px;
+    min-height: 80px;
 }
 /*home-blog*/
 .home-blog .feature-post-block .post-featured-image{
