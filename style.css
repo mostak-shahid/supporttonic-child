@@ -823,6 +823,9 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
     .uagb-columns__wrap .uagb-column__wrap{
         width: 100%!important;
     }
+    #cta .popup-btn-wrapper{
+        justify-content: flex-start;
+    }
 }
 @media (max-width:599.98px){}
 @media (max-width:479.98px){}
