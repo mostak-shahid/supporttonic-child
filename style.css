@@ -480,6 +480,10 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
     padding-right: 10px;
 }
 /*home-blog*/
+.home-blog .feature-post-block .post-featured-image{
+    min-width: 100%;
+    height: auto;
+}
 .home-blog .feature-post-block .text-wrapper{
     background-color: #ffffff;
     margin-top: -50px;
