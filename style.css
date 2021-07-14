@@ -221,8 +221,8 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
 }
 .inline-social ul li a {
     display: block;
-    width: 40px;
-    line-height: 40px;
+    width: 36px;
+    line-height: 36px;
     text-align: center;
 }
 /*Banner*/
@@ -316,6 +316,7 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
 }
 .support-media-block .title-part {
     font-size: 22px;
+    margin-bottom: 20px;
 }
 .support-media-block .svg-part,.support-media-block .img-part,.support-media-block .icon-part {
     display: inline-block;
@@ -600,7 +601,8 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    font-size: 26px;
+    line-height: 30px;
     font-weight: 700;
     text-shadow: 0 2px 3px rgb(0 0 0 / 50%);
     transition: 500ms ease all;
