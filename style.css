@@ -452,6 +452,10 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
 .media-block-six .part-two {
     padding: 30px;
 }
+.media-block-six .img-part img{
+    min-width: 100%;
+    height: auto;
+}
 /*CTA*/
 /*section#cta:before {
     content: '';
