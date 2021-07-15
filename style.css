@@ -850,6 +850,13 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
     .media-block-five .mos-media-block .part-one, .media-block-five .mos-media-block .part-two {
         width: 100%;
     }
+    .media-block-five .mos-media-block .part-two:before {
+        top: -18px;
+        bottom: auto;
+        left: 0!important;
+        right: 0;
+        margin: 0 auto;
+    }
 }
 @media (max-width:599.98px){
     
