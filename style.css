@@ -839,6 +839,7 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
     .home-banner-title{
         font-size: 35px!important;
     }
+    .sm-align-content-center{align-content:center!important}
 }
 @media (max-width:599.98px){
     
