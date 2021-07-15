@@ -844,6 +844,12 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
     .media-block-three.media-block-row-reverse .mos-media-block,.media-block-three.media-block-row .mos-media-block{
         border-radius: 0!important;
     }
+    .media-block-five .mos-media-block {
+        flex-direction: column!important;
+    }
+    .media-block-five .mos-media-block .part-one, .media-block-five .mos-media-block .part-two {
+        width: 100%;
+    }
 }
 @media (max-width:599.98px){
     
