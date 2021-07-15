@@ -840,6 +840,7 @@ body.archive .ast-author-box img.avatar{margin:0;border-radius:0}
         font-size: 35px!important;
     }
     .sm-align-content-center{align-content:center!important}
+    .sm-justify-content-center{justify-content:center!important}
 }
 @media (max-width:599.98px){
     
